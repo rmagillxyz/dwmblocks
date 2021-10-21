@@ -10,7 +10,7 @@ static const Block blocks[] = {
 	{"",	"sb-battery",	5,	3},
 	{"",	"sb-internet",	5,	4},
 	{"",	"sb-clock",	60,	1},
-	{"",	"sb-current-temp",	9000,	5},
+	{"",	"sb-current-temp",	300,	5},
 	/* {"",	"sb-pacpackages",	0,	8}, */
 	/* {"",	"sb-news",		0,	6}, */
 	/* {"",	"sb-crypto",	0,	13}, */
